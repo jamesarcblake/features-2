@@ -9,8 +9,6 @@ Android based Vocal Vision for Visually Impaired. Object Detection using Tensorf
 
 #### EyeVis will provide the exact platform for and services to these people and will try to some basic common day-to-day problems of a common man such as reading a Bar Code, Language Translation ,danger detection while driving which may be avoided
 
-#### Students at the Indian Institute of Technology in Delhi are making an impression with a new invention called the SmartCane. It enhances one of the world's oldest instruments — the walking stick — by adding sonar to help visually impaired people walk on their own.
-
 #### As far as the Blind are concerned ,for them tools have been developed which would help them by detecting some objects' distance using some electromagnetic waves.But no one has ever tried to actually make them see the real world
 
 #### So here comes the saviour , EyeVis providing what they wanted for so long!!!!!
